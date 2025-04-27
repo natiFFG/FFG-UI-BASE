@@ -1,0 +1,29 @@
+{
+    "name": "AISA Donation Platform",
+    "short_name": "AISA",
+    "description": "A Progressive Web App for donor engagement and donation management by AISOS.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#1976d2",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "/icons/icon-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/icons/icon-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "/icons/icon-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "any maskable"
+      }
+    ]
+  }
+  
